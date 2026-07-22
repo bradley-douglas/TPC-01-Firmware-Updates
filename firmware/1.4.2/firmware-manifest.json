@@ -1,0 +1,9 @@
+{
+  "schema": "tpc01-firmware-v1",
+  "project": "tyre_pressure_idf",
+  "filename": "tyre_pressure_idf.bin",
+  "version": "1.4.2",
+  "size": 1404560,
+  "sha256": "70c61e1a57a3835f346fcda6a4ac7ec8c7d4f0bd7066c59a12b60aaa5108ba77",
+  "signature": "MEUCIQDWCh/nIH4SrmMdR0l+Zro1XcPXNc9Zdh/x2fXyY9z7iwIgTdUmMdmzjNCLlLtBZZK0xIH7+rQDMHBcs6Rzr0pp0xE="
+}
